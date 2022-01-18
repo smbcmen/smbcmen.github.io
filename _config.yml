@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: The Men of Signal Mountain Bible Church
 
 # Your name to show in the footer
-author: Some Person
+author: SMBC
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - 2022 Men's Retreat: ""
 
 # --- Logo --- #
 
