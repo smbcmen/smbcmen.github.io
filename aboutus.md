@@ -6,6 +6,12 @@ subtitle: Who we are and what we stand for
 
 ## Signal Mountain Bible Church Men's Ministry
 
+### Podcast
+
+
+Check out the [SMBC Men's Visioncast podcast](https://podcasts.apple.com/us/podcast/smbc-mens-visioncast/id1586834981)
+
+
 ### Our Vision
 The SMBC Men’s Ministry exists to journey with, process with, and change with men in growing in Christ, serving and relating among the generations and nations.
 
